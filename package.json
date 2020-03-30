@@ -1,0 +1,9 @@
+{
+  "name": "@react-native-pqkluan/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:pqkluan/rn-prettier-config.git",
+  "author": "Luan Pham <pqkluan@gmail.com>",
+  "license": "MIT"
+}
