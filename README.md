@@ -1,4 +1,4 @@
-# @react-native-pqkluan/prettier-config
+# @pqkluan/rn-prettier-config
 
 Personal prettier config for react-native project
 
@@ -7,7 +7,7 @@ Personal prettier config for react-native project
 Install:
 
 ```bash
-yarn add --dev @react-native-pqkluan/prettier-config
+yarn add --dev @pqkluan/rn-prettier-config
 ```
 
 Edit `package.json`:
@@ -15,6 +15,6 @@ Edit `package.json`:
 ```
 {
   // ...
-  "prettier": "@react-native-pqkluan/prettier-config"
+  "prettier": "@pqkluan/rn-prettier-config"
 }
 ```

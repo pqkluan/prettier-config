@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-pqkluan/prettier-config",
+  "name": "@pqkluan/rn-prettier-config",
   "version": "1.0.0",
   "description": "Prettier config",
   "main": "index.json",
