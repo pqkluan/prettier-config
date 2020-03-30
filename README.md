@@ -12,7 +12,7 @@ yarn add --dev @react-native-pqkluan/prettier-config
 
 Edit `package.json`:
 
-```json
+```
 {
   // ...
   "prettier": "@react-native-pqkluan/prettier-config"
