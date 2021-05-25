@@ -1,6 +1,6 @@
 {
   "name": "@pqkluan/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Prettier config",
   "main": "index.json",
   "license": "MIT",
@@ -11,6 +11,9 @@
   "author": "Luan Pham <pqkluan@gmail.com>",
   "keywords": [
     "prettier"
+  ],
+  "files": [
+    "index.json"
   ],
   "scripts": {
     "test": "jest"
