@@ -1,5 +1,7 @@
 # @pqkluan/prettier-config
 
+[![Publish Action Status](https://github.com/pqkluan/prettier-config/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/pqkluan/prettier-config/actions/workflows/npm-publish.yml)
+
 Personal prettier config for javascript projects
 
 ## How-to-use
