@@ -4,7 +4,10 @@
   "description": "Prettier config",
   "main": "index.json",
   "license": "MIT",
-  "repository": "git@github.com:pqkluan/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pqkluan/prettier-config"
+  },
   "author": "Luan Pham <pqkluan@gmail.com>",
   "keywords": [
     "prettier"

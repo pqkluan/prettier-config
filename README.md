@@ -1,6 +1,6 @@
-# @pqkluan/rn-prettier-config
+# @pqkluan/prettier-config
 
-Personal prettier config for react-native project
+Personal prettier config for javascript projects
 
 ## How-to-use
 
