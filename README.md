@@ -7,7 +7,7 @@ Personal prettier config for react-native project
 Install this module as dev dependency
 
 ```bash
-yarn add --dev @pqkluan/rn-prettier-config
+yarn add --dev @pqkluan/prettier-config
 ```
 
 (Optional) Remove exists prettier config file.
@@ -17,7 +17,7 @@ To apply this module config, add "prettier" key in your `package.json` file.
 ```
 {
   // ...
-  "prettier": "@pqkluan/rn-prettier-config"
+  "prettier": "@pqkluan/prettier-config"
 }
 ```
 
