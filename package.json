@@ -1,6 +1,6 @@
 {
   "name": "@pqkluan/prettier-config",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Prettier config",
   "main": "index.json",
   "license": "MIT",
