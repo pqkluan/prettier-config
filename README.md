@@ -1,10 +1,12 @@
 # @pqkluan/prettier-config
 
-[![Publish Action Status](https://github.com/pqkluan/prettier-config/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/pqkluan/prettier-config/actions/workflows/npm-publish.yml)
+[![build][publish-badge]][publish-action]
+[![version][version-badge]][package]
+[![MIT License][license-badge]][license]
 
 Personal prettier config for javascript projects
 
-## How-to-use
+## How to use
 
 Install this module as dev dependency
 
@@ -30,3 +32,14 @@ To apply this module config, add "prettier" key in your `package.json` file.
 "editor.tabSize": 2,
 "editor.insertSpaces": true
 ```
+
+## License
+
+MIT
+
+[publish-badge]: https://github.com/pqkluan/prettier-config/actions/workflows/npm-publish.yml/badge.svg
+[publish-action]: https://github.com/pqkluan/prettier-config/actions/workflows/npm-publish.yml
+[version-badge]: https://img.shields.io/npm/v/@pqkluan/prettier-config.svg
+[package]: https://www.npmjs.com/package/@pqkluan/prettier-config
+[license-badge]: https://img.shields.io/npm/l/@pqkluan/prettier-config.svg
+[license]: https://github.com/pqkluan/prettier-config/blob/master/LICENSE
